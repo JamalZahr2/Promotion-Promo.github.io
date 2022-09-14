@@ -32,6 +32,7 @@ Webvstuew proejcts
 > __Note__
 
 $${\color{red}Hi}$$
+$${\color{blue}This was a color test}$$
 
 ![#1589F0] `1589F0`
 -  Color test
