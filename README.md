@@ -8,7 +8,8 @@ Webvstuew proejcts
 
 - [] This is an example of a checkbox
 - [x] This is a checked box
-- <del> [x] This is a crossed out item/text </del>
+- <del> [x] This is a crossed out item/text, it needs help </del>
+- [x] <del> This is a item cross with text </del>
 
 ---
 
@@ -19,5 +20,5 @@ Webvstuew proejcts
 ---
 
 ![#1589F0] `1589F0`
-
+-  Color test
 > Testing 101
