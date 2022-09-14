@@ -29,6 +29,8 @@ Webvstuew proejcts
     <text x="46" y="15" fill="#ea4335">s</text>
 </svg>
 
+> __Note__
+
 ![#1589F0] `1589F0`
 -  Color test
 `#1589F0`
