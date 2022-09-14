@@ -31,6 +31,8 @@ Webvstuew proejcts
 
 > __Note__
 
+$${\color{red}Red}$$
+
 ![#1589F0] `1589F0`
 -  Color test
 `#1589F0`
