@@ -21,5 +21,6 @@ Webvstuew proejcts
 
 ![#1589F0] `1589F0`
 -  Color test
+`#1589F0`
 `rgba(0,0,0,1)` 
 > Testing 101
