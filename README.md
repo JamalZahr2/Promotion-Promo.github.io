@@ -36,7 +36,7 @@ Webvstuew proejcts
 </svg>
 
 > __Note__
-
+###### <del> Celeste </del>
 $${\color{red}Hi}$$
 
 $${\color{blue}This was a color test}$$
