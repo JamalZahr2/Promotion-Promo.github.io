@@ -38,7 +38,9 @@ Webvstuew proejcts
 > __Note__
 ###### <del> Celeste </del>
 $${\color{red}Hi}$$
+
 $${\color{green}Why are you here?}$$
+
 $${\color{blue}This was a color test}$$
 
 `Copyable Test`
