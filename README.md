@@ -21,7 +21,7 @@ Webvstuew proejcts
 - [ ] Code the buttons
 - [ ] Create the webpages where the information would be stored.
 - [ ] Fill in that information and any bugs or unintentional to be ridden
-- <del> [ ] Probably don't procrastinate </del>
+- [ ] <del> Probably not procrastinate </del>
 
 ---
 
