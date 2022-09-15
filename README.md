@@ -39,9 +39,9 @@ Webvstuew proejcts
 ###### <del> Celeste </del>
 $${\color{red}Hi}$$
 
-$${\color{green}Why are you here?}$$
+$${\color{green}Why-are-you-here?}$$
 
-$${\color{blue}This was a color test}$$
+$${\color{blue}This-was-a-color-test}$$
 
 `Copyable Test`
 -  Color test
