@@ -2,7 +2,7 @@
 Webvstuew proejcts
 
 ## Reminders
-- None yet
+- <del> Complete Celeste </del>
 
 ##### Creating a Check ist
 
@@ -16,6 +16,12 @@ Webvstuew proejcts
 ### To do list
 - [x] Create a To do list
 - [ ] Add more items from the paper
+- <del> [ ] Finish Celeste </del>
+- [ ] Complete the layout of the website homepage
+- [ ] Code the buttons
+- [ ] Create the webpages where the information would be stored.
+- [ ] Fill in that information and any bugs or unintentional to be ridden
+- <del> [ ] Probably don't procrastinate </del>
 
 ---
 
@@ -35,8 +41,6 @@ $${\color{red}Hi}$$
 
 $${\color{blue}This was a color test}$$
 
-![#1589F0] `1589F0`
+`Copyable Test`
 -  Color test
-`#1589F0`
-`rgba(0,0,0,1)` 
 > Testing 101
