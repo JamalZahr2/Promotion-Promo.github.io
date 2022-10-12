@@ -1,0 +1,25 @@
+footer {
+    position: fixed;
+    min-height: auto;
+    width: 100%;
+    background-color: rgb(190, 12, 48);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: orangered;
+    border: 3px solid black; 
+    font-size: 1vw;
+}
+@font-face {
+    font-family: 'Endor'; /*Endor*/
+    src: url(Misc/Fonts/ENDOR___.ttf); /*https://www.1001freefonts.com/endor.font*/
+}
+header {
+    font-family: 'Endor';
+}
+body {
+    font-family: 'Montserrat';
+    background-color: lightcoral;
+    margin-bottom: 100px;
+    min-height: auto;
+}
