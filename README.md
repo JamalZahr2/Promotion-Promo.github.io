@@ -15,13 +15,14 @@ Webvstuew proejcts
 
 ### To do list
 - [x] Create a To do list
-- [ ] Add more items from the paper
+- [x] Add more items from the paper
 - [ ] <del> Finish Celeste </del>
-- [ ] Complete the layout of the website homepage
-- [ ] Code the buttons
-- [ ] Create the webpages where the information would be stored.
-- [ ] Fill in that information and any bugs or unintentional to be ridden
+- [x] Complete the layout of the website homepage
+- [x] Code the buttons
+- [x] Create the webpages where the information would be stored.
+- [x] Fill in that information and any bugs or unintentional to be ridden
 - [ ] <del> Probably not procrastinate </del>
+- [x] Finished?
 
 ---
 
